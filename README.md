@@ -272,29 +272,8 @@ Areas of interest:
 
 ---
 
-## `10 // CURRENT_MISSION`
 
-```text
-┌─[ CURRENT OBJECTIVES ]
-│
-├── [x] Explore Python and C/C++ fundamentals
-├── [ ] Build practical cybersecurity projects
-├── [ ] Develop a home SOC lab
-├── [ ] Improve SIEM workflows and log analysis
-├── [ ] Practise ethical penetration testing
-├── [ ] Strengthen networking and Linux skills
-├── [ ] Explore IoT and firmware security
-└── [ ] Document research and technical findings
-
-┌─[ NEXT ACTION ]
-└──$ keep_learning --no-exit
-```
-
-*The checklist is a personal roadmap; update it as your projects progress.*
-
----
-
-## `11 // PRINCIPLES`
+## `10 // PRINCIPLES`
 
 ```text
 01. Understand before exploiting.
@@ -307,7 +286,7 @@ Areas of interest:
 
 ---
 
-## `12 // CONNECT`
+## `11 // CONNECT`
 
 <div align="center">
 
