@@ -2,25 +2,53 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=0xander;Cybersecurity+Enthusiast;Red+Team+%7C+Blue+Team;Python+Developer;Always+Learning.+Always+Testing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=root%40oxander%3A~%24+whoami;0xander;Cybersecurity+Enthusiast;Red+Team+%7C+Blue+Team;Python+%7C+Linux+%7C+Security" alt="Terminal typing animation" />
 
-<br>
+</div>
 
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9f?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity" />
+```text
+┌──(root㉿0xander)-[~]
+└─$ whoami
+
+   ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗██████╗ ███████╗██████╗
+  ██╔═████╗╚██╗██╔╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗
+  ██║██╔██║ ╚███╔╝ ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+  ████╔╝██║ ██╔██╗ ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+  ╚██████╔╝██╔╝ ██╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║
+   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+
+[+] Identity      : 0xander
+[+] Focus         : Cybersecurity
+[+] Primary Lang  : Python
+[+] Environment   : Linux
+[+] Operations    : Red Team / Blue Team
+[+] Current Mode  : Learning & Building
+[+] Status        : ONLINE
+
+┌──(root㉿0xander)-[~/profile]
+└─$ cat about_me.txt
+
+> Exploring systems.
+> Building security tools.
+> Analysing threats.
+> Learning by doing.
+> Securing what matters.
+
+┌──(root㉿0xander)-[~/profile]
+└─$ _
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff9f?style=for-the-badge&logo=linux&logoColor=black" alt="Access granted" />
 <img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-PYTHON-00d9ff?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
 <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00ff9f?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-`[ SYSTEM ONLINE ]` • `[ ACCESS GRANTED ]` • `[ KEEP LEARNING ]`
 
 </div>
 
 ---
 
-## `> about_me`
-
-I'm a cybersecurity enthusiast focused on understanding how systems work, how vulnerabilities emerge, and how to build more secure environments.
-
-My interests span offensive security, defensive operations, programming, networking, Linux systems, and security research. I enjoy learning through practical projects, controlled labs, and technical experimentation.
+## `01 // ABOUT_ME`
 
 ```python
 class CyberProfile:
@@ -29,9 +57,9 @@ class CyberProfile:
         self.focus = "Cybersecurity"
         self.primary_language = "Python"
         self.environment = "Linux"
+
         self.interests = [
-            "Red Team",
-            "Blue Team",
+            "Red Team & Blue Team",
             "SOC / SIEM",
             "Network Security",
             "Penetration Testing",
@@ -39,6 +67,7 @@ class CyberProfile:
             "Security Automation",
             "IoT & Hardware Security"
         ]
+
         self.mindset = "Learn. Build. Test. Improve."
 
     def status(self):
@@ -49,42 +78,44 @@ me = CyberProfile()
 print(me.status())
 ```
 
-* Exploring offensive and defensive cybersecurity.
+I'm a cybersecurity enthusiast interested in understanding how systems work, how vulnerabilities emerge, and how to build more secure environments.
+
+* Exploring offensive and defensive security.
 * Developing programming and automation skills.
-* Building practical projects and security labs.
-* Learning network analysis, monitoring, and incident investigation.
-* Interested in application, infrastructure, and hardware security.
+* Building practical projects and controlled security labs.
+* Learning network analysis, log monitoring, and incident investigation.
+* Exploring application, infrastructure, and hardware security.
 
 ---
 
-## `> cybersecurity_domains`
+## `02 // CYBERSECURITY_DOMAINS`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/RED%20TEAM-Offensive%20Security-00ff9f?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Red Team" />
-<img src="https://img.shields.io/badge/BLUE%20TEAM-Defensive%20Security-00d9ff?style=for-the-badge&logo=defender&logoColor=black" alt="Blue Team" />
+<img src="https://img.shields.io/badge/BLUE%20TEAM-Defensive%20Security-00d9ff?style=for-the-badge&logo=linux&logoColor=black" alt="Blue Team" />
 <img src="https://img.shields.io/badge/PURPLE%20TEAM-Security%20Validation-9d4edd?style=for-the-badge&logo=target&logoColor=white" alt="Purple Team" />
 
 </div>
 
-| Domain              | Areas of interest                                         |
-| ------------------- | --------------------------------------------------------- |
-| Offensive Security  | Ethical hacking, reconnaissance, penetration testing      |
-| Defensive Security  | Monitoring, detection, incident response                  |
-| SOC / SIEM          | Log analysis, event correlation, alert investigation      |
-| Network Security    | TCP/IP, ports, protocols, packet analysis                 |
-| Web Security        | Authentication, authorization, common web vulnerabilities |
-| Digital Forensics   | Evidence analysis and investigation                       |
-| Threat Intelligence | OSINT, indicators of compromise, threat research          |
-| Malware Analysis    | Static and dynamic analysis in isolated labs              |
-| Cloud Security      | Identity, access management, security fundamentals        |
-| Hardware Security   | Firmware, embedded systems, IoT security                  |
+| Domain              | Areas of interest                                     |
+| ------------------- | ----------------------------------------------------- |
+| Offensive Security  | Reconnaissance, ethical hacking, penetration testing  |
+| Defensive Security  | Monitoring, detection, incident response              |
+| SOC / SIEM          | Log analysis, event correlation, alert investigation  |
+| Network Security    | TCP/IP, ports, protocols, packet analysis             |
+| Web Security        | Authentication, authorization, common vulnerabilities |
+| Digital Forensics   | Evidence analysis and investigation                   |
+| Threat Intelligence | OSINT, indicators of compromise, threat research      |
+| Malware Analysis    | Static and dynamic analysis in isolated labs          |
+| Cloud Security      | Identity, access management, security fundamentals    |
+| Hardware Security   | Firmware, embedded systems, IoT security              |
 
-*Areas listed represent interests and learning goals, not a claim of professional proficiency in every domain.*
+*These are areas of interest and learning, not a claim of professional expertise in every domain.*
 
 ---
 
-## `> programming_languages`
+## `03 // PROGRAMMING_LANGUAGES`
 
 <div align="center">
 
@@ -96,17 +127,19 @@ print(me.status())
 
 </div>
 
-* **Python** — scripting, automation, security tools and data processing.
-* **C++** — programming fundamentals, logic and low-level concepts.
-* **C** — systems programming and memory fundamentals.
-* **JavaScript** — web development and application security.
-* **PHP** — backend development and web applications.
-* **HTML & CSS** — web structure and styling.
-* **Bash** — Linux command-line workflows and automation.
+```text
+[ Python     ]  Scripting, automation, security tools
+[ C++        ]  Programming logic, low-level fundamentals
+[ C          ]  Systems programming and memory concepts
+[ JavaScript ]  Web development and application security
+[ PHP        ]  Backend development and web applications
+[ HTML / CSS ]  Web structure and styling
+[ Bash       ]  Linux command line and automation
+```
 
 ---
 
-## `> tools_and_environment`
+## `04 // SECURITY_TOOLKIT`
 
 <div align="center">
 
@@ -114,7 +147,7 @@ print(me.status())
 
 </div>
 
-**Security and analysis tools**
+**Tools of interest**
 
 <div align="center">
 
@@ -128,15 +161,15 @@ print(me.status())
 </div>
 
 * Linux terminal and system administration.
-* Network discovery and packet analysis.
+* Network discovery and traffic analysis.
 * Web application testing in authorized environments.
 * Security event and log investigation.
-* Python-based automation and scripting.
+* Python scripting and workflow automation.
 * Virtual machines and isolated cybersecurity labs.
 
 ---
 
-## `> networking_and_infrastructure`
+## `05 // NETWORKING_AND_INFRASTRUCTURE`
 
 <div align="center">
 
@@ -144,17 +177,19 @@ print(me.status())
 
 </div>
 
-* TCP/IP, DNS, HTTP/HTTPS and common network protocols.
-* IP addressing, ports, routing and network troubleshooting.
-* Linux servers and system hardening.
-* Virtualization and isolated lab environments.
-* Docker and container fundamentals.
-* Web server and deployment concepts.
-* Cloud fundamentals and access management.
+```text
+> TCP/IP, DNS, HTTP/HTTPS and common protocols
+> IP addressing, ports, routing and troubleshooting
+> Linux servers and system hardening
+> Virtualization and isolated lab environments
+> Docker and container fundamentals
+> Web server and deployment concepts
+> Cloud fundamentals and access management
+```
 
 ---
 
-## `> development_and_databases`
+## `06 // DEVELOPMENT_AND_DATABASES`
 
 <div align="center">
 
@@ -171,13 +206,13 @@ print(me.status())
 
 ---
 
-## `> digital_forensics_and_threat_analysis`
+## `07 // SOC_DFIR_AND_THREAT_INTELLIGENCE`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DFIR-FORENSICS-00ff9f?style=for-the-badge" alt="Digital forensics and incident response" />
-<img src="https://img.shields.io/badge/OSINT-THREAT%20INTELLIGENCE-00d9ff?style=for-the-badge" alt="OSINT and threat intelligence" />
-<img src="https://img.shields.io/badge/SOC-LOG%20ANALYSIS-00ff9f?style=for-the-badge" alt="SOC and log analysis" />
+<img src="https://img.shields.io/badge/SOC-LOG%20ANALYSIS-00ff9f?style=for-the-badge" alt="SOC log analysis" />
+<img src="https://img.shields.io/badge/DFIR-FORENSICS-00d9ff?style=for-the-badge" alt="Digital forensics and incident response" />
+<img src="https://img.shields.io/badge/OSINT-THREAT%20INTELLIGENCE-00ff9f?style=for-the-badge" alt="OSINT and threat intelligence" />
 
 </div>
 
@@ -192,7 +227,7 @@ Areas of interest:
 
 ---
 
-## `> hardware_and_iot`
+## `08 // HARDWARE_AND_IOT`
 
 <div align="center">
 
@@ -215,13 +250,13 @@ Areas of interest:
 
 ---
 
-## `> github_statistics`
+## `09 // GITHUB_STATISTICS`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xander&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff9f&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=0xander&theme=transparent&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00d9ff&sideLabels=00ff9f&currStreakNum=ffffff&sideNums=ffffff&dates=808080" alt="GitHub streak with green flame" />
+<img width="49%" src="https://streak-stats.demolab.com?user=0xander&theme=transparent&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00d9ff&sideLabels=00ff9f&currStreakNum=ffffff&sideNums=ffffff&dates=808080" alt="GitHub streak with neon green flame" />
 
 <br><br>
 
@@ -229,30 +264,37 @@ Areas of interest:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MAIN%20LANGUAGE-PYTHON-00ff9f?style=for-the-badge&logo=python&logoColor=black" alt="Python is my primary language" />
+<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-PYTHON-00ff9f?style=for-the-badge&logo=python&logoColor=black" alt="Python primary language" />
 
 </div>
 
-*The language statistics are generated from repository contents. The Python badge identifies my primary language; the statistics card reflects GitHub's language detection.*
+> The streak card displays contribution consistency. The language card is automatically calculated from repository contents; the Python badge identifies my primary language.
 
 ---
 
-## `> current_mission`
+## `10 // CURRENT_MISSION`
 
 ```text
-[+] Strengthen Python and C/C++ fundamentals
-[+] Build practical cybersecurity projects
-[+] Develop a home SOC lab
-[+] Learn SIEM workflows and log analysis
-[+] Practise ethical penetration testing
-[+] Improve networking and Linux skills
-[+] Explore IoT and firmware security
-[+] Document research and technical findings
+┌─[ CURRENT OBJECTIVES ]
+│
+├── [x] Explore Python and C/C++ fundamentals
+├── [ ] Build practical cybersecurity projects
+├── [ ] Develop a home SOC lab
+├── [ ] Improve SIEM workflows and log analysis
+├── [ ] Practise ethical penetration testing
+├── [ ] Strengthen networking and Linux skills
+├── [ ] Explore IoT and firmware security
+└── [ ] Document research and technical findings
+
+┌─[ NEXT ACTION ]
+└──$ keep_learning --no-exit
 ```
+
+*The checklist is a personal roadmap; update it as your projects progress.*
 
 ---
 
-## `> principles`
+## `11 // PRINCIPLES`
 
 ```text
 01. Understand before exploiting.
@@ -260,12 +302,12 @@ Areas of interest:
 03. Automate repetitive work.
 04. Document every investigation.
 05. Practise ethically and legally.
-06. Keep learning.
+06. Stay curious. Keep improving.
 ```
 
 ---
 
-## `> connect`
+## `12 // CONNECT`
 
 <div align="center">
 
@@ -275,11 +317,13 @@ Areas of interest:
 
 <br><br>
 
-`[ ACCESS THE REPOSITORIES ]`
+```text
+┌──(root㉿0xander)-[~/profile]
+└─$ echo "Learn. Build. Test. Secure."
 
-**Learn. Build. Test. Secure.**
+Learn. Build. Test. Secure.
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:00d9ff&height=100&section=footer" alt="Neon green and cyan footer" />
 
 </div>
-
